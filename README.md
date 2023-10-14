@@ -1,10 +1,12 @@
-# FLATADANGO MOVIE THEATRE APP
-Flata Dango is going to allow the user to see a list of available movies.
-tThe user is also going to be able to see and buy available tickets.
-# procedure
-# 1 
-I am going to fetch data from an API that will allow user  to see list of available movies.
-# 2 
-create a buttton that allows user to select movie and see if there are available tickests.
+# FLATDANGO MOVIE THEATRE APP
+An app that allows the users to see a list of movies.
+The user is also able to see if tickets are available and buy if so.
+# PROCEDURE
+# 1
+Use a fetch command that allows the user to see the first movie on the list.
+The user dhould also see its other properties including the runtime, tickets sold and theatre capacity among others.
+The user should be able to buy tickets if they are available.
 # 3
-Be able to infirm the user incase the tickets are sold out
+The user should also see a list of all movies showing, their attributes and buy a ticket also if they are available
+# 4
+Lastly, as a user buys the ticket, the number of tickets should reduce by number of tickets bought.
